@@ -1,4 +1,4 @@
-# select_projects_datasci
+# General Programming Projects
 Select projects which outline programming abilities that Allen has developed alone and with friends;
 
 ## NOTE: Please do not distribute code as it is meant for demonstration purposes only.

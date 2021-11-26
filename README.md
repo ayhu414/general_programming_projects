@@ -1,5 +1,7 @@
 # select_projects_datasci
-Select projects which outline programming abilities that Allen has developed alone and with friends
+Select projects which outline programming abilities that Allen has developed alone and with friends;
+
+## NOTE: Please do not distribute code as it is meant for demonstration purposes only.
 
 # 1) Course Selector App: 
     Develop web application that will find courses on the UChicago college catalog which matches a set of user preferences such as enrollment bounds, class meeting times, and walking distance from one building to another. The first step is to develop a web crawler to construct an index of classes on the UChicago college catalog. The second step is to build the full backend of the search tool, combining information with individual serches to give the user a list of results which match their requirements.

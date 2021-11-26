@@ -66,9 +66,10 @@ COURSE: MENG 25610 "Applied Scientific Computing in Molecular Engineering", Inst
 # 10) News Sentiment Analysis:
 
 Using webscraped data for select news sources from different countries (SCMP - China, BBC - UK, RT - RU etc.), develop a web-app which:
-    1) Visualizes the frequent terms used in select region's news source
-    2) Conducts general sentiment analysis of given news source using NLTK
-    3) Predicts the source of articles of unknown origin using a k-th level markov model.
+
+1) Visualizes the frequent terms used in select region's news source
+2) Conducts general sentiment analysis of given news source using NLTK
+3) Predicts the source of articles of unknown origin using a k-th level markov model.
 
 COURSE: CMSC 12200 "Computer Science with Applications", Instructor: Matthew Wachs
 

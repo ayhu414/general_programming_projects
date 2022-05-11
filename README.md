@@ -1,5 +1,5 @@
 # General Programming Projects
-Select projects which outline programming abilities that Allen has developed alone and with friends;
+Collection of projects including natural language processing, Markov models, probabilistic data linkage etc.
 
 ## NOTE: Please do not distribute code as it is meant for demonstration purposes only.
 

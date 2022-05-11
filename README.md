@@ -1,7 +1,7 @@
 # General Programming Projects
 Collection of projects including natural language processing, Markov models, probabilistic data linkage etc.
 
-## NOTE: Please do not distribute code as it is meant for demonstration purposes only.
+### NOTE: Please do not distribute code as it is meant for demonstration purposes only.
 
 ## Message Passing Neural Networks
 

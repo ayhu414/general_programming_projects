@@ -3,13 +3,13 @@ Collection of projects including natural language processing, Markov models, pro
 
 ## NOTE: Please do not distribute code as it is meant for demonstration purposes only.
 
-# Message Passing Neural Networks
+## Message Passing Neural Networks
 
 Built Message-Passing Neural Network models for two different molecular properties: atomization energy and band gap energy. We also will see how the design of a network can have a large influence on the accuracy of a machine learning model.
 
 COURSE: MENG 25620 "Applied Artificial Intelligence for Material Science", Instructor: Logan Ward (Github: https://github.com/WardLT)
 
-# Baysian Model Updating (Monte-Carlo Simulations)
+## Baysian Model Updating (Monte-Carlo Simulations)
 
 Estimated the parameters of a model using Monte Carlo sampling. Learned how to estimate parameters more multiple models using data collected by different experiemnts and how to estimate parameters in data with outliers.
 
@@ -19,13 +19,13 @@ Estimated the parameters of a model using Monte Carlo sampling. Learned how to e
 
 COURSE: MENG 25620 "Applied Artificial Intelligence for Material Science", Instructor: Logan Ward (Github: https://github.com/WardLT)
 
-# LASSO and PCA for Molecular Property Prediction
+## LASSO and PCA for Molecular Property Prediction
 
 Established the advantages and limitations of QSAR models with shallow machine learning methods (Lasso and PCA). Ran a few different QSAR models for the band gap energy of molecules to see the tradeoffs between different methods.
 
 COURSE: MENG 25620 "Applied Artificial Intelligence for Material Science", Instructor: Logan Ward (Github: https://github.com/WardLT)
 
-# Course Selector App: 
+## Course Selector App: 
 
 Develop web application that will find courses on the UChicago college catalog which matches a set of user preferences such as enrollment bounds, class meeting times, and walking distance from one building to another. The first step is to develop a web crawler to construct an index of classes on the UChicago college catalog. The second step is to build the full backend of the search tool, combining information with individual serches to give the user a list of results which match their requirements.
 
@@ -35,25 +35,25 @@ COURSE: CMSC 12200 "Computer Science with Applications", Instructor: Matthew Wac
 
 THANKS TO: Nicholas Thom
 
-# Probabilistic Data Linkage: 
+## Probabilistic Data Linkage: 
 
 Assignment to link a pair of datasets containing restaurant names and addresses and link them, i.e., find records in the two datasets that refer to the same restaurant, even if they are spelled or refered to differently (e.x. "Lou Mitchell's" V.S. "Lou's" / "McDonalds" V.S. "Maccas" etc.)
 
 COURSE: CMSC 12200 "Computer Science with Applications", Instructor: Matthew Wachs; reference: https://www.classes.cs.uchicago.edu/archive/2019/winter/12200-1/pa/pa4/index.html
 
-# Speaker prediction using markov models and hash tables: 
+## Speaker prediction using markov models and hash tables: 
 
 Develop custom hash table to construct k-th order markov model which will predict the speaker of a given text given a training set of speaker-text data.
 
 COURSE: CMSC 12300 "Computer Science with Applications", Instructor: Matthew Wachs; reference: https://www.classes.cs.uchicago.edu/archive/2019/winter/12200-1/pa/pa5/index.html
 
-# Processing streaming data with a thread pool:
+## Processing streaming data with a thread pool:
 
 Implementing a thread pool to handle the 1.USA.gov clicks public stream data using C. First making the data thread-safe, then implementing a thread pool with worker threads to handle the aformentioned data.
 
 COURSE: CMSC 12300 "Computer Science with Applications", Instructor: Matthew Wachs; reference: https://www.classes.cs.uchicago.edu/archive/2020/spring/12300-1/pa3.html
 
-# Analyzing the White House visitor logs using MapReduce
+## Analyzing the White House visitor logs using MapReduce
 
 Develop MapReduce code to extrapolate lists of guests who visited the White House based on various conditions:
     1. A list of the guests who visited at least ten times (task1.py).
@@ -61,31 +61,31 @@ Develop MapReduce code to extrapolate lists of guests who visited the White Hous
     3. A list of the guests who visited at least once in both 2009 and 2010 (task3.py).
     4. A list of the people who were both guests and staff (in other words, someone whom is visited) in 2009 and / or 2010 (as long as someone visited at any point across the two years, and was visited at any point across the two years, they count, whether or not these two events occurred in the same year) (task4.py).
     
-# Basic Game Theory reduction with C
+## Basic Game Theory reduction with C
 
 Use C to create a simple game reduction table to find the Nash Equilibrium of a given game, taking into account games that cannot be reduced.
     
 COURSE: CMSC 12300 "Computer Science with Applications", Instructor: Matthew Wachs; reference: https://www.classes.cs.uchicago.edu/archive/2020/spring/12300-1/pa2/
 
-# Implementing Gram-Schmidt Orthonormalization:
+## Implementing Gram-Schmidt Orthonormalization:
 
 Use Python to develop a simple Gram-Schmidt procedure used in linear algebra.
     
 COURSE: MENG 25610 "Applied Scientific Computing in Molecular Engineering", Instructor: Marco Govoni
 
-# Implementing MPI (parallel programing) to a single-thread analysis of atomic structures.
+## Implementing MPI (parallel programing) to a single-thread analysis of atomic structures.
 
 Use mpi4py to parallelize a single-thread program which calculates a radial distribution function (RDF) to analyze results of molecular dynamics simulation of water.
     
 COURSE: MENG 25610 "Applied Scientific Computing in Molecular Engineering", Instructor: Marco Govoni
 
-# Implementing Fourier Transformation to analyze noisy signals:
+## Implementing Fourier Transformation to analyze noisy signals:
 
 Given a periodic signal, smoothen out the signal by removing the noise using a fourier transform process.
     
 COURSE: MENG 25610 "Applied Scientific Computing in Molecular Engineering", Instructor: Marco Govoni
 
-# News Sentiment Analysis:
+## News Sentiment Analysis:
 
 Using webscraped data for select news sources from different countries (SCMP - China, BBC - UK, RT - RU etc.), develop a web-app which:
 
